@@ -1,5 +1,7 @@
 # Ask the e107help team (almost) anything!
 
+[![Join the chat at https://gitter.im/e107help/ama](https://badges.gitter.im/e107help/ama.svg)](https://gitter.im/e107help/ama?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 People are bound to have questions related to the e107help community platform update. Since filling the G+ page with these questions will be difficult to track, and posting them on the [e107help.org](http://e107help.org/) website doesn't really go towards the sites intended direction -- let's try this!
 
 If you have questions related to e107 in general send your questions to the previously mentioned site, or head on over to the [e107 repo](https://github.com/e107inc/e107)!
